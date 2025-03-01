@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" filepath="$PROJECT_DIR$/ArrayExercise/ArrayExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankManagemnetSystem/BankManagemnetSystem.iml" filepath="$PROJECT_DIR$/BankManagemnetSystem/BankManagemnetSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataVariablesExercise/DataVariablesExercise.iml" filepath="$PROJECT_DIR$/DataVariablesExercise/DataVariablesExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1/FigurePattern.iml" filepath="$PROJECT_DIR$/Project1/FigurePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals_SoftUni.iml" filepath="$PROJECT_DIR$/Fundamentals_SoftUni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroqChatBot/GroqChatBot.iml" filepath="$PROJECT_DIR$/GroqChatBot/GroqChatBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leet/LeetCode.iml" filepath="$PROJECT_DIR$/Leet/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListsExercise/ListsExercise.iml" filepath="$PROJECT_DIR$/ListsExercise/ListsExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapExercise/MapExercise.iml" filepath="$PROJECT_DIR$/MapExercise/MapExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maps/Maps.iml" filepath="$PROJECT_DIR$/Maps/Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massives/Massives.iml" filepath="$PROJECT_DIR$/Massives/Massives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodsExercise/MethodsExercise.iml" filepath="$PROJECT_DIR$/MethodsExercise/MethodsExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidExam/MidExam.iml" filepath="$PROJECT_DIR$/MidExam/MidExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidExamPreparation/MidExamPreparation.iml" filepath="$PROJECT_DIR$/MidExamPreparation/MidExamPreparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" filepath="$PROJECT_DIR$/MusicPlayer/MusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPExercise/OOPExercise.iml" filepath="$PROJECT_DIR$/OOPExercise/OOPExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PO1BasicSyntax/PO1BasicSyntax.iml" filepath="$PROJECT_DIR$/PO1BasicSyntax/PO1BasicSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project2HTTP/Project2HTTP.iml" filepath="$PROJECT_DIR$/Project2HTTP/Project2HTTP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.iml" filepath="$PROJECT_DIR$/RockPaperScissors/RockPaperScissors.iml" />
+    </modules>
+  </component>
+</project>
